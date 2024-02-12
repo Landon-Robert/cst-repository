@@ -7,3 +7,5 @@ Sandwiches sunt populare genus cibi prandii, sumendi ad operandum, scholae, vel 
 
 Sandwich nominatur ab inventore supposito, John Montagu, 4th Earl of Sandwich. Acta Wall Street eam ut "maximam contributionem gastronomy" Britanniae descripsit.
 
+Inline-style: 
+![alt text](https://en.wikipedia.org/wiki/File:Bologna_sandwich.jpg)
